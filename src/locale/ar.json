@@ -1,0 +1,15 @@
+{
+    "domainName": "اسم المجال",
+    "sales": "للبيع",
+    "btnBuyNow": "اشتري الآن",
+    "formTitle": "تعليق",
+    "namePlaceholder": "الاسم",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "phonePlaceholder": "الهاتف",
+    "pricePlaceholder": "السعر $",
+    "messagePlaceholder": "رسالة",
+    "checkboxTextOne": "أوافق على شروط",
+    "checkboxTextTwo": "قواعد معالجة واستخدام البيانات الشخصية",
+    "btnSubmit": "إرسال",
+    "footerText": "© النطاق موقوف باستخدام الخدمة"
+}

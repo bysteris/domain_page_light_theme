@@ -1,0 +1,15 @@
+{
+  "domainName": "Domain name",
+  "sales": "for sale",
+  "btnBuyNow": "buy now",
+  "formTitle": "Feedback",
+  "namePlaceholder": "Name",
+  "emailPlaceholder": "Email",
+  "phonePlaceholder": "Telephone",
+  "pricePlaceholder": "Price $",
+  "messagePlaceholder": "Message",
+  "checkboxTextOne": "I accept the terms of",
+  "checkboxTextTwo": "Rules for the processing and use of personal data",
+  "btnSubmit": "Send",
+  "footerText": "© The domain is parked using the service"
+}

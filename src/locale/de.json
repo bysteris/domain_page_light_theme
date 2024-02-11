@@ -1,0 +1,15 @@
+{
+    "domainName": "Domänenname",
+     "sales": "zu verkaufen",
+     "btnBuyNow": "Jetzt kaufen",
+     "formTitle": "Rückmeldung",
+     "namePlaceholder": "Name",
+     "emailPlaceholder": "E-Mail",
+     "phonePlaceholder": "Telefon",
+     "pricePlaceholder": "Preis €",
+     "messagePlaceholder": "Nachricht",
+     "checkboxTextOne": "Ich akzeptiere die Bedingungen von",
+     "checkboxTextTwo": "Regeln für die Verarbeitung und Nutzung personenbezogener Daten",
+     "btnSubmit": "Senden",
+     "footerText": "© Die Domain ist über den Dienst geparkt"
+}

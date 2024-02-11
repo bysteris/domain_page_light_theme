@@ -1,0 +1,15 @@
+{
+  "domainName": "Домове ім'я",
+  "sales": "продається",
+  "btnBuyNow": "купити зараз",
+  "formTitle": "Зворотний зв'язок",
+  "namePlaceholder": "Ім'я",
+  "emailPlaceholder": "Email",
+  "phonePlaceholder": "Телефон",
+  "pricePlaceholder": "Ціна ₴",
+  "messagePlaceholder": "Повідомлення",
+  "checkboxTextOne": "Я приймаю умови",
+  "checkboxTextTwo": "Правила обробки та використання персональних даних",
+  "btnSubmit": "Надіслати",
+  "footerText": "© Домен припаркований за допомогою сервісу"
+}

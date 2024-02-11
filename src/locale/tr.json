@@ -1,0 +1,15 @@
+{
+  "domainName": "Alan adı",
+  "sales": "satılık",
+  "btnBuyNow": "hemen satın alın",
+  "formTitle": "Geri Bildirim",
+  "namePlaceholder": "Ad",
+  "emailPlaceholder": "E-posta",
+  "phonePlaceholder": "Telefon",
+  "pricePlaceholder": "Fiyat ₺",
+  "messagePlaceholder": "Mesaj",
+  "checkboxTextOne": "Şartlarını kabul ediyorum",
+  "checkboxTextTwo": "Kişisel verilerin işlenmesi ve kullanımına ilişkin kurallar",
+  "btnSubmit": "Gönder",
+  "footerText": "© Alan adı hizmet kullanılarak park edildi"
+}

@@ -1,0 +1,15 @@
+{
+  "domainName": "Nombre de dominio",
+  "sales": "en venta",
+  "btnBuyNow": "comprar ahora",
+  "formTitle": "Comentarios",
+  "namePlaceholder": "Nombre",
+  "emailPlaceholder": "Correo electrónico",
+  "phonePlaceholder": "Teléfono",
+  "pricePlaceholder": "Precio €",
+  "messagePlaceholder": "Mensaje",
+  "checkboxTextOne": "Acepto los términos de",
+  "checkboxTextTwo": "Reglas para el procesamiento y uso de datos personales",
+  "btnSubmit": "Enviar",
+  "footerText": "© El dominio está aparcado utilizando el servicio"
+}

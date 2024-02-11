@@ -1,0 +1,15 @@
+{
+  "domainName": "Nazwa domeny",
+  "sales": "na sprzedaż",
+  "btnBuyNow": "kup teraz",
+  "formTitle": "Opinia",
+  "namePlaceholder": "Nazwa",
+  "emailPlaceholder": "E-mail",
+  "phonePlaceholder": "Telefon",
+  "pricePlaceholder": "Cena zł",
+  "messagePlaceholder": "Wiadomość",
+  "checkboxTextOne": "Akceptuję warunki",
+  "checkboxTextTwo": "Zasady przetwarzania i wykorzystywania danych osobowych",
+  "btnSubmit": "Wyślij",
+  "footerText": "© Domena jest zaparkowana przy użyciu usługi"
+}

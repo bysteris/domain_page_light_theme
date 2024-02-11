@@ -1,0 +1,15 @@
+{
+  "domainName": "Tên miền",
+  "sales": "để bán",
+  "btnBuyNow": "mua ngay",
+  "formTitle": "Phản hồi",
+  "namePlaceholder": "Tên",
+  "emailPlaceholder": "Email",
+  "phonePlaceholder": "Điện thoại",
+  "pricePlaceholder": "Giá ₫",
+  "messagePlaceholder": "Tin nhắn",
+  "checkboxTextOne": "Tôi chấp nhận các điều khoản của",
+  "checkboxTextTwo": "Quy tắc xử lý và sử dụng dữ liệu cá nhân",
+  "btnSubmit": "Gửi",
+  "footerText": "© Tên miền được sử dụng dịch vụ"
+}

@@ -1,0 +1,15 @@
+{
+    "domainName": "網域名稱",
+     "sales": "出售",
+     "btnBuyNow": "立即購買",
+     "formTitle": "回饋",
+     "namePlaceholder": "名稱",
+     "emailPlaceholder": "電子郵件",
+     "phonePlaceholder": "電話",
+     "pricePlaceholder": "價格 ¥",
+     "messagePlaceholder": "訊息",
+     "checkboxTextOne": "我接受以下條款",
+     "checkboxTextTwo": "個人資料處理與使用規則",
+     "btnSubmit": "發送",
+     "footerText": "© 該網域已使用該服務停放"
+}

@@ -1,0 +1,15 @@
+{
+    "domainName": "Доменное имя",
+    "sales": "продается",
+    "btnBuyNow": "купить сейчас",
+    "formTitle": "Обратная связь",
+    "namePlaceholder": "Имя",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Телефон",
+    "pricePlaceholder": "Цена ₽",
+    "messagePlaceholder": "Сообщение",
+    "checkboxTextOne": "Я принимаю условия",
+    "checkboxTextTwo": "Правил обработки и использования персональных данных",
+    "btnSubmit": "Отправить",
+    "footerText": "© Домен припаркован с помощью сервиса"
+}
